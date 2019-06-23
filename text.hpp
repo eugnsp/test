@@ -7,3 +7,8 @@ void func2()
 {
 	int b = 2;
 }
+
+void func2()
+{
+	int b = 2;
+}

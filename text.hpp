@@ -5,5 +5,5 @@ void func1()
 
 void func2()
 {
-	int b = 1;
+	int b = 2;
 }

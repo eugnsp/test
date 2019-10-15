@@ -1,7 +1,18 @@
+.. contents:: Table of Contents
+.. section-numbering::
+
 Test
 ====
 
 Subtest
 -------
 
-.. include:: doc.rst
+Test 2
+======
+
+Subtest 2
+---------
+
+
+
+

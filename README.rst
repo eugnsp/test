@@ -19,3 +19,10 @@ Subtest 2
 
 ![Test](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/stackoverflow.svg)
 ![](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/stackoverflow.svg)
+
+
+:a:
+:b:
+:c:
+:d:
+:s:

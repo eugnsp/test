@@ -21,8 +21,12 @@ Subtest 2
 ![](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/stackoverflow.svg)
 
 
-- :a:
-- :b:
-- :c:
-- :d:
-- :s:
+text :a:
+
+text :b:
+
+text :c:
+
+text :d:
+
+text :s:
